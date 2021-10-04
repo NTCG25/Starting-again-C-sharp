@@ -1,0 +1,16 @@
+C:\Users\throw\Desktop\New folder\NTCG25\bin\Debug\net5.0\NTCG25.exe
+C:\Users\throw\Desktop\New folder\NTCG25\bin\Debug\net5.0\NTCG25.deps.json
+C:\Users\throw\Desktop\New folder\NTCG25\bin\Debug\net5.0\NTCG25.runtimeconfig.json
+C:\Users\throw\Desktop\New folder\NTCG25\bin\Debug\net5.0\NTCG25.runtimeconfig.dev.json
+C:\Users\throw\Desktop\New folder\NTCG25\bin\Debug\net5.0\NTCG25.dll
+C:\Users\throw\Desktop\New folder\NTCG25\bin\Debug\net5.0\ref\NTCG25.dll
+C:\Users\throw\Desktop\New folder\NTCG25\bin\Debug\net5.0\NTCG25.pdb
+C:\Users\throw\Desktop\New folder\NTCG25\obj\Debug\net5.0\NTCG25.csproj.AssemblyReference.cache
+C:\Users\throw\Desktop\New folder\NTCG25\obj\Debug\net5.0\NTCG25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\throw\Desktop\New folder\NTCG25\obj\Debug\net5.0\NTCG25.AssemblyInfoInputs.cache
+C:\Users\throw\Desktop\New folder\NTCG25\obj\Debug\net5.0\NTCG25.AssemblyInfo.cs
+C:\Users\throw\Desktop\New folder\NTCG25\obj\Debug\net5.0\NTCG25.csproj.CoreCompileInputs.cache
+C:\Users\throw\Desktop\New folder\NTCG25\obj\Debug\net5.0\NTCG25.dll
+C:\Users\throw\Desktop\New folder\NTCG25\obj\Debug\net5.0\ref\NTCG25.dll
+C:\Users\throw\Desktop\New folder\NTCG25\obj\Debug\net5.0\NTCG25.pdb
+C:\Users\throw\Desktop\New folder\NTCG25\obj\Debug\net5.0\NTCG25.genruntimeconfig.cache
